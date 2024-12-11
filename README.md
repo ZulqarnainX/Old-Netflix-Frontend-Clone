@@ -10,8 +10,8 @@ Check out the live version of the project here: [Old Netflix Clone](https://old-
 
 ## 📸 Preview
 
-![Project Screenshot](.preview.png)  
-*Add a screenshot of your project here*
+![Project Screenshot](preview.png)  
+
 
 ## 🚀 Features
 
