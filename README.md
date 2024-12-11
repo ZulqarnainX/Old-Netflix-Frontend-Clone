@@ -10,7 +10,7 @@ Check out the live version of the project here: [Old Netflix Clone](https://old-
 
 ## 📸 Preview
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Preview)  
+![Project Screenshot](.preview.png)  
 *Add a screenshot of your project here*
 
 ## 🚀 Features
